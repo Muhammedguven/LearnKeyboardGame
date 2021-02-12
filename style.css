@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 400px;
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
